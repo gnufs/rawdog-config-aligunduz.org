@@ -300,7 +300,7 @@ feed 29m http://blogs.fsfe.org/feed/
 feed 29m http://blogs.fsfe.org/fellowship-interviews/?feed=rss2
 feed 29m http://ileriseviye.org/blog/?feed=rss2
 feed 29m http://feeds.feedburner.com/ironicsans/feed
-feed 29m http://retrocode.blogspot.com/feeds/posts/default?alt=rss
+feed 29m http://www.retroprogramming.com/feeds/posts/default?alt=rss
 feed 29m http://sharism.cc/feed/
 feed 29m http://research.swtch.com/feeds/posts/default?alt=rss
 feed 29m http://0pointer.de/blog/index.rss20
@@ -324,3 +324,5 @@ feed 29m http://blog.jgc.org/feeds/posts/default?alt=rss
 feed 29m http://feeds.feedburner.com/metajack
 feed 29m http://blog.dave.cridland.net/?feed=rss2
 feed 29m http://feeds.feedburner.com/debuggable
+feed 29m http://feeds.feedburner.com/softwaretechandmore
+feed 29m http://blog.rebeccamurphey.com/rss.xml
