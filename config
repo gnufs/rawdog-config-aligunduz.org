@@ -262,7 +262,7 @@ feed 29m http://laforge.gnumonks.org/weblog/index.rss
 feed 29m http://feeds.feedburner.com/codinghorror/
 feed 29m http://feeds2.feedburner.com/diveintomark/all
 feed 29m http://feeds.feedburner.com/catonmat
-feed 29m http://feeds2.feedburner.com/pthree
+#feed 29m http://feeds2.feedburner.com/pthree
 feed 29m http://feeds.feedburner.com/AshutoshMehraBlog
 feed 29m http://www.crypto.com/blog/rss20.xml
 feed 29m http://www.jakevoytko.com/blog/feed/
@@ -275,9 +275,8 @@ feed 29m http://ascii.textfiles.com/feed
 feed 29m http://robertmh.wordpress.com/feed/
 feed 29m http://ebb.org/bkuhn/blog/rss.xml
 feed 29m http://joey.kitenet.net/blog/index.rss
-feed 29m http://feeds.feedburner.com/UweHermann
-feed 29m http://reprog.wordpress.com/category/programming/feed/
-feed 29m http://teddziuba.com/atom.xml
+#feed 29m http://reprog.wordpress.com/category/programming/feed/
+#feed 29m http://teddziuba.com/atom.xml
 feed 29m http://eli.thegreenplace.net/feed/
 feed 29m http://www.linusakesson.net/rssfeed.php
 feed 29m http://tinkerish.com/blog/?feed=rss2
@@ -298,10 +297,10 @@ feed 29m http://static.fsf.org/fsforg/rss/news.xml
 feed 29m http://static.fsf.org/fsforg/rss/blogs.xml
 feed 29m http://blogs.fsfe.org/feed/
 feed 29m http://blogs.fsfe.org/fellowship-interviews/?feed=rss2
-feed 29m http://ileriseviye.org/blog/?feed=rss2
+feed 29m http://ileriseviye.org/blog/feed/
 feed 29m http://feeds.feedburner.com/ironicsans/feed
 feed 29m http://www.retroprogramming.com/feeds/posts/default?alt=rss
-feed 29m http://sharism.cc/feed/
+feed 29m https://sharism.cc/
 feed 29m http://research.swtch.com/feeds/posts/default?alt=rss
 feed 29m http://0pointer.de/blog/index.rss20
 feed 29m http://feeds.feedburner.com/Betterexplained
@@ -320,10 +319,9 @@ feed 29m http://symkat.com/feed/
 feed 29m http://www.mirider.com/weblog/index.rss
 feed 29m http://gnashdev.org/?q=blog/feed
 feed 29m http://www.simplepenart.com/rss.xml
-feed 29m http://blog.jgc.org/feeds/posts/default?alt=rss
 feed 29m http://feeds.feedburner.com/metajack
 feed 29m http://blog.dave.cridland.net/?feed=rss2
 feed 29m http://feeds.feedburner.com/debuggable
 feed 29m http://feeds.feedburner.com/softwaretechandmore
 feed 29m http://blog.rebeccamurphey.com/rss.xml
-feed 29m http://sheddingbikes.com/feed.xml
+feed 29m http://feeds2.feedburner.com/ZenAndTheArtOfRubyProgramming
